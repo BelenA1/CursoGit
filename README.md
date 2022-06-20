@@ -53,3 +53,8 @@ Con Underline 2
 
 ```
 
+# Tablas
+| Columna1 | Columna2 | Columna3 | Columna4 |
+| -------- | --------- | -------- | ------- |
+| datos1.1 | datos1.2   | datos1.3 | datos1.4 |
+| datos2.1 | datos2.2   | datos2.3 | datos2.4 | 
