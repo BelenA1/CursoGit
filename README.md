@@ -16,7 +16,11 @@ Sin underline 2
 
 Con Underline 2
 ====
-
+- Letra italica *forma 1*
+- Letra italica _forma 2_
+- Formato **bold o strong** en**forma1**
+- Formato __bold o strong__ en __forma2__
+- Formato ~~Tachado~~
 
 
 
