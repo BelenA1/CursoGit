@@ -66,3 +66,16 @@ Citamos a
 Otro texto
 > Otra cita
 
+# Lineas divisorias
+Texto Texto Texto Forma 1
+
+-----
+
+Texto Texto Texto Forma 2
+
+******
+
+Texto Texto Texto Forma 3
+
+_______
+
